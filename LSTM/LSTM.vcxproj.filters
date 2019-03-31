@@ -24,9 +24,6 @@
     <ClInclude Include="RNN.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="Kalman.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -39,9 +36,6 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="RNN.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="Kalman.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
